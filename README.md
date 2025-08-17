@@ -55,7 +55,7 @@ Crear/editar días del viaje
 Agregar/reorganizar actividades
 
 Vista calendario
-//////////////////
+
 ### Prioridad Media:
 
 Sistema colaborativo
@@ -73,7 +73,7 @@ Service Workers
 Cache de flashcards críticas
 
 Sync en background
-//////////////////
+
 ### Prioridad Baja:
 
 Funcionalidades avanzadas
