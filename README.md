@@ -3,9 +3,13 @@ appweb para mi viaje a japon con lo esencial para el viaje
 
 ## IDEAS
 Un calendario organizador entre los amigos para organizar entradas para museos y horarios.
+
 Un tricount personalizado que introduces jpy y te convierte a eur.
+
 flashcards con frases y palabras utiles para el viaje.
+
 PWA para funcionar offline hasta tener conexion de vuelta a internet
+
 Mobile First & app web
 
 ## Tech Stack
